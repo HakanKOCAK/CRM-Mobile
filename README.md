@@ -16,36 +16,36 @@ _Click [CRM - Web] to see the web version._
 - Send proposals, service and installation report to customer as email.
 
 ### _Drawer_
-<img src="images/drawer.PNG" width="414" height="896">
+<img src="images/drawer.PNG" width="207" height="448">
 
 ### _Login_
-<img src="images/login.jpeg" width="414" height="896">
+<img src="images/login.jpeg" width="207" height="448">
 
 ### _Product Details_
-<img src="images/productDetails.PNG" width="414" height="896">
+<img src="images/productDetails.PNG" width="207" height="448">
 
 ### _Customer_
-<img src="images/createCustomer.PNG" width="414" height="896">
-<img src="images/customerDetails.PNG" width="414" height="896">
+<img src="images/createCustomer.PNG" width="207" height="448">
+<img src="images/customerDetails.PNG" width="207" height="448">
 
 ### _Product Proposal_
-<img src="images/createProductProposal.PNG" width="414" height="896">
+<img src="images/createProductProposal.PNG" width="207" height="448">
 
 ### _Meeting_
-<img src="images/meetingDetails.PNG" width="414" height="896">
+<img src="images/meetingDetails.PNG" width="207" height="448">
 
 ### _Product Sale_
-<img src="images/saleDetails1.PNG" width="414" height="896">
-<img src="images/saleDetails1.PNG" width="414" height="896">
+<img src="images/saleDetails1.PNG" width="207" height="448">
+<img src="images/saleDetails1.PNG" width="207" height="448">
 
 ### _Installation Report_ 
-<img src="images/createInstallationReport1.PNG" width="414" height="896">
-<img src="images/createInstallationReport2.PNG" width="414" height="896">
-<img src="images/installationReportDetails.PNG" width="414" height="896">
+<img src="images/createInstallationReport1.PNG" width="207" height="448">
+<img src="images/createInstallationReport2.PNG" width="207" height="448">
+<img src="images/installationReportDetails.PNG" width="207" height="448">
 
 ### _Actions_
-<img src="images/email.PNG" width="414" height="896">
-<img src="images/filter.PNG" width="414" height="896">
+<img src="images/email.PNG" width="207" height="448">
+<img src="images/filter.PNG" width="207" height="448">
 
 
    [React Native]: <https://reactnative.dev>
